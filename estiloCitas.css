@@ -1,0 +1,228 @@
+body {
+    font-family: Arial, Helveltica, sans-serif;
+    margin: 0;
+    background-image: url("../imagenes/doctor.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.contenedor {
+    background-color: #C2E5E0;
+    height: 300px;
+    width: 550px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 145px;
+}
+
+.contenedor2 {
+    background-color: #C2E5E0;
+    height: 720px;
+    width: 900px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tipo {
+    position: absolute;
+    margin-left: 335px;
+}
+
+#Nuevo {
+    color: teal;
+    align-content: center;
+    padding-top: 15%;
+}
+
+.nombre {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 160px;
+}
+
+.TextBox {
+    position: absolute;
+    border: none;
+    border-bottom: 1px solid #000000;
+    background-color: transparent;
+    outline: none;
+    font-size: 18;
+}
+
+.registro {
+    margin-left: 0px;
+}
+
+#apP {
+    margin-top: 70px;
+}
+
+#apM {
+    margin-top: 140px;
+}
+
+#FechaN {
+    margin-top: 210px;
+}
+
+#CURP {
+    margin-top: 280px;
+}
+
+#Tel {
+    margin-top: 350px;
+}
+
+#E-mail {
+    margin-top: 420px;
+}
+
+#agrega {}
+
+#Text {
+    margin-left: 235px;
+    margin-top: 110px;
+}
+
+#Text2 {
+    margin-left: 235px;
+    margin-top: 170px;
+}
+
+#agrega {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 500px;
+    font-size: 20;
+    background-color: transparent;
+    border-color: teal;
+    height: 40px;
+    width: 230px;
+}
+
+#Text3 {
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 230px;
+    font-size: 20;
+    background-color: teal;
+    outline: none;
+    border: none;
+    height: 40px;
+    width: 230px;
+}
+
+#Text4 {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 290px;
+    color: black;
+    font-size: 20;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    height: 40px;
+    width: 180px;
+}
+
+#Text5 {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 430px;
+    color: white;
+    font-size: 20;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    height: 40px;
+    width: 180px;
+}
+
+#Text6 {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 560px;
+    color: black;
+    font-size: 20;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    height: 40px;
+    width: 180px;
+}
+
+.imagen {
+    height: 300px;
+    width: 225px;
+    background-color: teal;
+}
+
+.imagen2 {
+    height: 720px;
+    width: 225px;
+    background-color: teal;
+}
+
+#Medico {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 30px;
+    height: 125px;
+    width: 125px;
+}
+
+#paciente {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 200px;
+    height: 60px;
+    width: 60px;
+}
+
+#Cuaderno {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 360px;
+    height: 60px;
+    width: 60px;
+}
+
+#Engran {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 500px;
+    height: 60px;
+    width: 60px;
+}
+
+#celda1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(39, 184, 172);
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#celda2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#celda3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(39, 184, 172);
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
